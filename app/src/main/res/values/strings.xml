@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TheMatrix</string>
+    <string name="title_activity_matrix">MatrixActivity</string>
+</resources>
