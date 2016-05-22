@@ -1,7 +1,7 @@
 # TheMatrix
 A Grid Game
 
-Select the siz of the Grid between 1 to 5.
+Select the size of the Grid between 1 to 5.
 
 Initially the grid is filled with random numbers between 1 to 3.
 
